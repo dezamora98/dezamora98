@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Daniel Enrique Zamora Sifredo 👋
 
-<!--
-**dezamora98/dezamora98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate embedded systems developer with experience in **C/C++**, **C#**, **Python**, and **VHDL**. 
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: C/C++, C#, Python, VHDL
+- **Embedded Systems**: Hardware design, microcontroller programming, digital system design.
+
+## 📚 Highlighted Projects
+
+!Build Status
+
+## 📫 Contact
+
+If you have any questions or just want to chat, feel free to contact me:
+
+- Email: dezamora98@gmail.com
+- LinkedIn: [dezamora98](https://www.linkedin.com/in/dezamora98/)
+
+
