@@ -22,11 +22,10 @@ I am an embedded systems profile oriented developer with experience in **C/C++**
   
 <br>
 <br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dezamora98&theme=tokyonight)](https://git.io/praveenscience)
+<br>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=dezamora98&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dezamora98&theme=tokyonight) |
+
+| ![Daniel E. Zamora Sifredo github stats](https://github-readme-stats.vercel.app/api?username=dezamora98&show_icons=true&theme=tokyonight) | ![Daniel E. Zamora Sifredo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dezamora98&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezamora98&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dezamora98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
