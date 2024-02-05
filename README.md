@@ -16,7 +16,7 @@ I am an embedded systems profile oriented developer with experience in **C/C++**
 <a href= https://github.com/dezamora98?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> 📫 Contact <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/dezamora98/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/dezamora98'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
@@ -29,18 +29,7 @@ I am an embedded systems profile oriented developer with experience in **C/C++**
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezamora98&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dezamora98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
 <br>
 
-
-
-## 📫 Contact
-
-If you have any questions or just want to chat, feel free to contact me:
-
-- Email: dezamora98@gmail.com
-- LinkedIn: [dezamora98](https://www.linkedin.com/in/dezamora98/)
 
 
